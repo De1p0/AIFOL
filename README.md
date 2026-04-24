@@ -1,7 +1,6 @@
 # AIFOL
 AI Can Fuck Off License (AIFOL)
 
---
 
 ```
                      AI FUCK OFF LICENSE
