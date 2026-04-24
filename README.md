@@ -6,24 +6,32 @@ AI Can Fuck Off License (AIFOL)
                      AI FUCK OFF LICENSE
                     Version 1, April 2026
 
-                  Copyright (C) 2026 Delphi      
+                  Copyright (C) 2026 Delphi
 
 Permission is granted to copy and distribute this license document,
-in whole or in part, with or without modification,
-provided that any modified version is clearly renamed and not presented as the original license.
+in whole or in part, with or without modification, provided that any
+modified version is clearly renamed and not presented as the original
+license.
 
                       AI FUCK OFF LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
   1. AI RESTRICTION
-  You may NOT use this software OR any part of it for improving, fine-tuning or training your FUCKING AI. That includes building datasets, embeddings, or anything else your AI BULLSHIT feeds on, directly or indirectly
-  
+  You may NOT use this software OR any part of it for improving,
+  fine-tuning or training your FUCKING AI. That includes building
+  datasets, embeddings, or anything else your AI BULLSHIT feeds on,
+  directly or indirectly.
+
   2. ATTRIBUTION
   Redistributions must retain this FUCKING license.
-  
+
   3. TERMINATION
-  Any violation of this license immediately terminates all granted rights.
+  Any violation of this license immediately terminates all granted
+  rights.
 
   4. DISCLAIMER
-  The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose and non-infringement. The author is not liable for any damages or claims arising from its use.
+  The Software is provided “as is”, without warranty of any kind,
+  express or implied, including but not limited to fitness for a
+  particular purpose and non-infringement. The author is not liable
+  for any damages or claims arising from its use.
 ```
