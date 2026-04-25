@@ -16,6 +16,11 @@ license.
                       AI FUCK OFF LICENSE
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
+  0. GRANT OF RIGHTS
+  Permission is hereby granted to any person to use, copy, modify, and
+  distribute this software, in whole or in part, for any purpose,
+  subject to the restrictions below.
+
   1. AI RESTRICTION
   You may NOT use this software OR any part of it for improving,
   fine-tuning or training your FUCKING AI. That includes building
@@ -29,9 +34,16 @@ license.
   Any violation of this license immediately terminates all granted
   rights.
 
-  4. DISCLAIMER
+  4. LICENSE INTEGRITY
+  You may not remove, alter, or circumvent the AI RESTRICTION or any
+  other term of this license when using, copying, modifying, or
+  distributing this software. Any attempt to do so is void and
+  automatically terminates all rights granted under this license.
+
+  5. DISCLAIMER
   The Software is provided “as is”, without warranty of any kind,
   express or implied, including but not limited to fitness for a
   particular purpose and non-infringement. The author is not liable
   for any damages or claims arising from its use.
+
 ```
