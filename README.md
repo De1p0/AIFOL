@@ -22,11 +22,17 @@ license.
   subject to the restrictions below.
 
   1. AI RESTRICTION
-  You may NOT use this software OR any part of it for improving,
-  fine-tuning or training your FUCKING AI. That includes building
-  datasets, embeddings, or anything else your AI BULLSHIT feeds on,
-  directly or indirectly.
 
+  You may NOT reproduce, extract, or include this software (in whole or in
+  substantial part) in any dataset, corpus, or training material used for the
+  purpose of training, fine-tuning, or evaluating machine learning or artificial
+  intelligence systems.
+
+  That includes building datasets, embeddings, vector databases, or any other
+  downstream representation used to train your fucking AI. It also includes any
+  attempt to route, launder, or indirectly funnel this software into training
+  pipelines through intermediate storage or transformation.
+  
   2. ATTRIBUTION
   Redistributions must retain this FUCKING license.
 
@@ -45,5 +51,4 @@ license.
   express or implied, including but not limited to fitness for a
   particular purpose and non-infringement. The author is not liable
   for any damages or claims arising from its use.
-
 ```
